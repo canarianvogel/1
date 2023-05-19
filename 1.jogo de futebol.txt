@@ -1,0 +1,17 @@
+1.jogo de futebol
+
+2.atravessar o campo
+
+3.Um menino foi desafiado atravessar um campo de futebol com 4 amigos tentando impedi-lo
+e você pode ajudar ele nessa misão
+
+4. 1-bola: sera movimentada pelo jogador
+   2-menino:vai movimentar a bola
+
+5.1-plano de fundo
+  2-jogadores:tentaram roubar a bola do menino
+
+
+6.O jogo se passara em um campo de futebol com grama verde e 2 gols e nele um menino baixo vai tentar atravesar o campo com seus amigos mais altos tentando impedi-lo e uma bola preta e branca vai acompanhar ele.
+
+7.Adicionando uma velocidade alta aos jogadores dificultando a passagem do menino.
